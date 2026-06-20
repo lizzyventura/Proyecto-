@@ -1,0 +1,39 @@
+body {
+background-color: darksalmon;
+}
+
+div {
+  text-align: center;
+padding: 10%;
+background-color: bisque;
+margin: 0 auto;
+border: 5px solid green;
+max-width: 90%;
+height: 50%;
+border-radius: 10px;
+}
+
+img {
+  height:  100%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.unico {
+  color: navy;
+  font-family: fantasy;
+  font-size: 200%;
+}
+
+h2  {
+  color: blueviolet;
+  font-family: serif;
+  font-size: 100%;
+}
+
+p {
+  color: brown;
+  font-family: monospace;
+  font-size: 150%;
+}
+

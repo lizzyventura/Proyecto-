@@ -1,0 +1,62 @@
+
+body {
+  background-color: hotpink;
+  text-align: center;
+  margin: 0 auto;
+  
+}
+img {
+  width: 100%;
+  height: 100%;
+  border: 3% solid blue;
+}
+
+div {
+  background-color: lightpink;
+  padding: 10%;
+  margin: 15%;
+  border: 5% solid blue;
+  border-radius: 3%;
+  margin: 0 auto;
+  width: 60%;
+  height: 60%;
+  
+}
+.unico {
+  font-family: fantasy;
+  color: blueviolet;
+  font-size: 300%;;
+}
+
+#cabecera {
+  font-family: Cursive;
+  color: chocolate;
+  font-size: 300%;
+}
+
+h3 {
+  font-family: serif;
+  color: green;
+  font-size: 300%;
+}
+
+p {
+  font-family: monospace;
+  color: darkblue;
+  font-size: 300%;
+  
+}
+
+button {
+  background-color: cadetblue;
+  color: white; 
+  padding: 50% 
+  font-size: 50%;
+  border-radius: 3%;
+  width: 50%;
+  height: 50%;
+  
+}
+
+
+

@@ -1,0 +1,64 @@
+body {
+  background-color: aliceblue;
+  text-align: center;
+  margin: 0 auto;
+  
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  border: 3% solid blue;
+}
+
+div {
+  background-color: lightpink;
+  padding: 10%;
+  margin: 5%;
+  border: 6% solid blue;
+  border-radius: 8%;
+  margin: 0 auto;
+  width: 60%;
+  height: 60%;
+  
+}
+
+.unico {
+  font-family: fantasy;
+  color: blueviolet;
+  font-size: 300%;;
+}
+
+#cabecera {
+  font-family: Cursive;
+  color: chocolate;
+  font-size: 500%;
+}
+
+h3 {
+  font-family: serif;
+  color: green;
+  font-size: 300%;
+}
+
+p {
+  font-family: monospace;
+  color: darkblue;
+  font-size: 300%;
+  
+}
+
+h2 {
+  color: blueviolet;
+  font-family: fantasy;
+  font-size: 200%;
+}
+
+ul {
+  color: darkcyan;
+  font-family: monospace:
+}
+
+
+
+
